@@ -1,1 +1,1 @@
-# .github
+# Cognizant RCM AI
